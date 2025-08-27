@@ -51,3 +51,34 @@ Withdrawal transaction**
 
 <img width="1316" height="353" alt="Screenshot from 2025-08-27 12-35-06" src="https://github.com/user-attachments/assets/719f2a51-60e8-480e-a196-941f4b1ca782" />
 
+
+## 4. Even or Odd Locker Number
+### Scenario: Your school assigns lockers with numbers. Take locker number as input and print whether it is
+### even or odd.
+Input:
+Enter locker number: 17
+Output:
+Odd locker number
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 14-42-20" src="https://github.com/user-attachments/assets/7145f370-8093-4f3d-988c-0e5856adf007" />
+
+<img width="1113" height="396" alt="Screenshot from 2025-08-27 14-42-12" src="https://github.com/user-attachments/assets/8fe33687-2e89-4bab-b800-8b3f98a37f02" />
+
+## 5. Square or Rectangle Garden
+### Scenario: You are designing a small garden. Take its length and breadth as input and check whether it is a
+**square garden or rectangular.
+Input:
+Enter length: 12
+Enter breadth: 12
+Output:
+Square garden**
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 14-52-42" src="https://github.com/user-attachments/assets/e74c559d-ca3b-4887-ab40-7f1bafe51c8a" />
+
+
+<img width="1113" height="401" alt="Screenshot from 2025-08-27 14-52-35" src="https://github.com/user-attachments/assets/95b06660-1337-41f4-9dee-8df2feb53fd8" />
+
+
+
+
+
