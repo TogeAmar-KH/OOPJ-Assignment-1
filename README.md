@@ -78,7 +78,17 @@ Square garden**
 
 <img width="1113" height="401" alt="Screenshot from 2025-08-27 14-52-35" src="https://github.com/user-attachments/assets/95b06660-1337-41f4-9dee-8df2feb53fd8" />
 
+## 6. Leap Year Check for a Birthday
+### Scenario: You want to celebrate your friend’s birthday on Feb 29 if it’s a leap year. Take the year as input
+### and check if it’s a leap year.
+**Input:
+Enter year: 2024
+Output:
+2024 is a leap year.**
 
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 16-28-35" src="https://github.com/user-attachments/assets/e1ccd619-77ce-4c3e-a201-40f120e80525" />
+
+<img width="1162" height="528" alt="Screenshot from 2025-08-27 16-28-15" src="https://github.com/user-attachments/assets/157cc234-f6f6-405b-a40e-a0d506ee918e" />
 
 
 
