@@ -140,26 +140,27 @@ Enter classes attended: 78
 Output:
 Student is allowed to sit for the exam.**
 
-<img width="1920" height="1080" alt="Screenshot from 2025-08-27 23-55-35" src="https://github.com/user-attachments/assets/896e925d-344c-4d6f-bb26-4f30a9d36ed8" />
-
-<img width="850" height="175" alt="Screenshot from 2025-08-27 23-55-06" src="https://github.com/user-attachments/assets/57b955a2-71f6-49e6-8201-61f5f0f34410" />
 
 
-11. Grade Based on Percentage
-Scenario: Your friend got exam marks. Take percentage marks as input and print the grade:
 
-● 90+ → A+
+## 11. Grade Based on Percentage
+### Scenario: Your friend got exam marks. Take percentage marks as input and print the grade:
+
+**● 90+ → A+
 ● 76–89 → A
 ● 66–75 → B+
 ● 51–65 → B
 ● 36–50 → C
-● Below 35 → Fail
+● Below 35 → Fail**
 
-Input:
+**Input:
 Enter percentage marks: 82
-
 Output:
-Grade: A
+Grade: A**
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 23-55-35" src="https://github.com/user-attachments/assets/896e925d-344c-4d6f-bb26-4f30a9d36ed8" />
+
+<img width="850" height="175" alt="Screenshot from 2025-08-27 23-55-06" src="https://github.com/user-attachments/assets/57b955a2-71f6-49e6-8201-61f5f0f34410" />
 
 12. Oldest and Youngest Among Three Friends
 Scenario: You and two friends want to know who is oldest and youngest. Take ages as input and print the oldest and youngest.
