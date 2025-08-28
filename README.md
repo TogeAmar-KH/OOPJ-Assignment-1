@@ -587,79 +587,102 @@ Output:
 
 <img width="1219" height="246" alt="Screenshot from 2025-08-28 09-35-30" src="https://github.com/user-attachments/assets/22409404-b781-44e8-8e2a-24c272a4e2eb" />
 
-43. Sum of Digits of a Number
-Scenario: Take a number as input and print the sum of its digits.
+## 43. Sum of Digits of a Number
+### Scenario: Take a number as input and print the sum of its digits.
 
-Input:
+**Input:
 Enter number: 482
-
 Output:
-Sum of digits: 14
+Sum of digits: 14**
 
-44. Reverse 4-Digit Number and Palindrome Check
-Scenario: Take a 4-digit number, reverse it, and check if it is a palindrome.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 09-51-26" src="https://github.com/user-attachments/assets/31fcdc14-46a8-4bee-bd75-295b7e876719" />
+<img width="1219" height="172" alt="Screenshot from 2025-08-28 09-52-25" src="https://github.com/user-attachments/assets/eba96078-2b74-4022-8b24-7cce657520bc" />
 
-Input:
+
+## 44. Reverse 4-Digit Number and Palindrome Check
+### Scenario: Take a 4-digit number, reverse it, and check if it is a palindrome.
+
+**Input:
 Enter 4-digit number: 1221
-
 Output:
 Reversed number: 1221
-Palindrome: Yes
+Palindrome: Yes**
 
-45. Sort Three Numbers in Ascending Order
-Scenario: Take three numbers and print them in ascending order.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 09-54-23" src="https://github.com/user-attachments/assets/d7330bc6-1cd5-4edf-ac32-8f637c0ba42d" />
+<img width="1219" height="253" alt="Screenshot from 2025-08-28 09-55-04" src="https://github.com/user-attachments/assets/4ea4dc45-f820-4c9f-ba7e-8a9b85917f7f" />
 
-Input:
+
+## 45. Sort Three Numbers in Ascending Order
+### Scenario: Take three numbers and print them in ascending order.
+
+**Input:
 Enter numbers: 45, 12, 78
-
 Output:
-Ascending order: 12, 45, 78
+Ascending order: 12, 45, 78**
 
-46. Character Type Checker
-Scenario: Take a character as input and print whether it is an alphabet, digit, or special character.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 09-57-06" src="https://github.com/user-attachments/assets/cb07b0d9-7b5e-4f7a-9aa2-99bc95da3a9b" />
+<img width="1219" height="226" alt="Screenshot from 2025-08-28 09-57-30" src="https://github.com/user-attachments/assets/0db61ff0-528b-4f54-928f-9d36822cf656" />
 
-Input:
+
+## 46. Character Type Checker
+### Scenario: Take a character as input and print whether it is an alphabet, digit, or special character.
+
+**Input:
 Enter character: %
-
 Output:
-Special Character
+Special Character**
 
-47. Even/Odd Status of Two Numbers
-Scenario: Take two numbers and print if both are even, both odd, or mixed.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 09-59-18" src="https://github.com/user-attachments/assets/493cda68-a694-410f-9af3-d9d8c9dac8da" />
+<img width="1219" height="201" alt="Screenshot from 2025-08-28 10-00-22" src="https://github.com/user-attachments/assets/a206e6f7-3b62-461c-8fe3-35653dd7f0b2" />
 
-Input:
+
+## 47. Even/Odd Status of Two Numbers
+### Scenario: Take two numbers and print if both are even, both odd, or mixed.
+
+**Input:
 Enter first number: 12
 Enter second number: 17
-
 Output:
-Numbers are mixed (one even, one odd)
+Numbers are mixed (one even, one odd)**
 
-48. Grade with Plus/Minus
-Scenario: Take marks and print grade with plus/minus (e.g., 85 → A, 78 → A−).
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 10-02-17" src="https://github.com/user-attachments/assets/fc0c980e-dd9b-484b-892b-3e604ac5d0bc" />
+<img width="1219" height="201" alt="Screenshot from 2025-08-28 10-02-41" src="https://github.com/user-attachments/assets/1f2a9d2f-e29e-4f4b-bfb9-903249293ed9" />
 
-Input:
+
+## 48. Grade with Plus/Minus
+### Scenario: Take marks and print grade with plus/minus (e.g., 85 → A, 78 → A−).
+
+**Input:
 Enter marks: 78
-
 Output:
-Grade: A−
+Grade: A−**
 
-49. Days in Month Considering Leap Year
-Scenario: Take a year and month number, print days in that month considering leap years.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 10-04-02" src="https://github.com/user-attachments/assets/1d48f599-a0eb-493c-a7dd-cefca2bdc51d" />
+<img width="1219" height="172" alt="Screenshot from 2025-08-28 10-04-28" src="https://github.com/user-attachments/assets/dc8e5919-7152-4ded-aabc-9ab5e4c9cc70" />
 
-Input:
+
+## 49. Days in Month Considering Leap Year
+### Scenario: Take a year and month number, print days in that month considering leap years.
+
+**Input:
 Enter year: 2024
 Enter month number: 2
-
 Output:
-29 days
+29 days**
 
-50. Divisibility by 2, 3, 5 with Custom Messages
-Scenario: Take a number and check divisibility by 2, 3, and 5, printing custom messages for each.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 10-06-13" src="https://github.com/user-attachments/assets/4e245600-fbe9-44d4-9394-5e07c9e1345c" />
+<img width="1219" height="197" alt="Screenshot from 2025-08-28 10-07-01" src="https://github.com/user-attachments/assets/fe26760b-f7f1-40ec-a66b-c3e028e78255" />
 
-Input:
+
+## 50. Divisibility by 2, 3, 5 with Custom Messages
+### Scenario: Take a number and check divisibility by 2, 3, and 5, printing custom messages for each.
+
+**Input:
 Enter number: 30
-
 Output:
 Divisible by 2
 Divisible by 3
-Divisible by 5
+Divisible by 5**
+<img width="1920" height="1080" alt="Screenshot from 2025-08-28 10-08-26" src="https://github.com/user-attachments/assets/dc87bea8-df80-4c18-98d9-b136f01aecbd" />
+
+<img width="1219" height="223" alt="Screenshot from 2025-08-28 10-09-12" src="https://github.com/user-attachments/assets/a619c8fb-df24-497d-a705-c12bb10d0425" />
