@@ -90,44 +90,60 @@ Output:
 
 <img width="1162" height="528" alt="Screenshot from 2025-08-27 16-28-15" src="https://github.com/user-attachments/assets/157cc234-f6f6-405b-a40e-a0d506ee918e" />
 
-7. Exam Pass or Fail
-Scenario: A student gives an exam. Take marks (0–100) as input and print whether the student has passed (>=35) or failed.
+## 7. Exam Pass or Fail
+### Scenario: A student gives an exam. Take marks (0–100) as input and print whether the student has passed (>=35) or failed.
 
-Input:
+**Input:
 Enter marks: 42
-
 Output:
-Student has passed.
+Student has passed.**
 
-8. Shop Discount Calculation
-Scenario: A shop offers 10% discount if the purchase amount exceeds 1000. Take total purchase amount as input and calculate final cost.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 23-40-45" src="https://github.com/user-attachments/assets/55124522-b6db-4c90-9821-f2341ce92ef8" />
 
-Input:
+<img width="850" height="334" alt="Screenshot from 2025-08-27 23-40-27" src="https://github.com/user-attachments/assets/0364ee2c-3c97-4b66-b926-f1e2ee3b7c64" />
+
+
+## 8. Shop Discount Calculation
+### Scenario: A shop offers 10% discount if the purchase amount exceeds 1000. Take total purchase amount as input and calculate final cost.
+
+**Input:
 Enter total purchase amount: 1200
-
 Output:
-Final cost after discount: 1080
+Final cost after discount: 1080**
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 23-49-24" src="https://github.com/user-attachments/assets/b7ffb4a2-47a4-4a80-819f-64bab0b105a0" />
+
+<img width="850" height="223" alt="Screenshot from 2025-08-27 23-52-06" src="https://github.com/user-attachments/assets/2a4234bd-2a41-4a55-af03-d0eb8ad65d06" />
 
 
-9. Employee Bonus Eligibility
-Scenario: A company gives a 5% bonus to employees with more than 5 years of service. Take salary and years of service as input and print bonus amount.
 
-Input:
+## 9. Employee Bonus Eligibility
+### Scenario: A company gives a 5% bonus to employees with more than 5 years of service. Take salary and years of service as input and print bonus amount.
+
+**Input:
 Enter salary: 50000
 Enter years of service: 6
-
 Output:
-Bonus amount: 2500
+Bonus amount: 2500**
 
-10. Exam Attendance Eligibility
-Scenario: A student can sit in exams only if attendance >=75%. Take total classes held and attended as input, print allowance.
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 23-53-10" src="https://github.com/user-attachments/assets/2d4d5be1-bd5f-4558-b231-f488fb3484f2" />
 
-Input:
+<img width="850" height="223" alt="Screenshot from 2025-08-27 23-53-53" src="https://github.com/user-attachments/assets/3c79f7a2-e597-452a-93d9-a1e86db437e2" />
+
+
+## 10. Exam Attendance Eligibility
+### Scenario: A student can sit in exams only if attendance >=75%. Take total classes held and attended as input, print allowance.
+
+**Input:
 Enter total classes held: 100
 Enter classes attended: 78
-
 Output:
-Student is allowed to sit for the exam.
+Student is allowed to sit for the exam.**
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-27 23-55-35" src="https://github.com/user-attachments/assets/896e925d-344c-4d6f-bb26-4f30a9d36ed8" />
+
+<img width="850" height="175" alt="Screenshot from 2025-08-27 23-55-06" src="https://github.com/user-attachments/assets/57b955a2-71f6-49e6-8201-61f5f0f34410" />
+
 
 11. Grade Based on Percentage
 Scenario: Your friend got exam marks. Take percentage marks as input and print the grade:
