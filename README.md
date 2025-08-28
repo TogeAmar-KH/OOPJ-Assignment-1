@@ -113,7 +113,8 @@ Final cost after discount: 1080**
 
 <img width="1920" height="1080" alt="Screenshot from 2025-08-27 23-49-24" src="https://github.com/user-attachments/assets/b7ffb4a2-47a4-4a80-819f-64bab0b105a0" />
 
-<img width="850" height="223" alt="Screenshot from 2025-08-27 23-52-06" src="https://github.com/user-attachments/assets/2a4234bd-2a41-4a55-af03-d0eb8ad65d06" />
+<img width="792" height="272" alt="image" src="https://github.com/user-attachments/assets/f4c3bd7b-468d-448c-852a-aa6d86687918" />
+
 
 
 
